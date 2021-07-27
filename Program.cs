@@ -12,4 +12,23 @@ namespace Demo.AutoMapper
         {
         }
     }
+
+    public class Member
+    {
+        public string Name { get; set; }
+        public string Phone { get; set; }
+        public string Address { get; set; }
+    }
+
+    public class MemberVM
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Phone { get; set; }
+        public string Country { get; set; }
+        public string Township { get; set; }
+        public string Road { get; set; }
+        public string Section { get; set; }
+        public string No { get; set; }
+    }
 }
