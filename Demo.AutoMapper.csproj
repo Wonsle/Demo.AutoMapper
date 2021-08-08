@@ -47,7 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Member.cs" />
+    <Compile Include="MemberMapping.cs" />
     <Compile Include="MemberVM.cs" />
+    <Compile Include="ProdcutMapping.cs" />
+    <Compile Include="ProductInfo.cs" />
+    <Compile Include="ProductSimpleInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
