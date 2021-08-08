@@ -4,9 +4,9 @@ AutoMapperDemo
 
 開發環境
 
-.Windows 10 Home x64
-.Visual Studio 2019 community
-.dotNet4.7.2
-.AutoMapper 10.1.1
+- Windows 10 Home x64
+- Visual Studio 2019 community
+- dotNet4.7.2
+- AutoMapper 10.1.1
 
 
